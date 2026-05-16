@@ -1,0 +1,7 @@
+Aarohi | MCA | 1 | MC123 | Present
+Harshita | MCA | 1 | MC123 | Present
+Rahul | MCA | 1 | MC123 | Present
+Purvi | MCA | 1 | MC123 | Present
+Head | AIML | 2 | dec01 | Present
+Coordinator | MCA | 2 | dec02 | Present
+Coordinator | MCA | 2 | dec02 | Present
